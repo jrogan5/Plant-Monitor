@@ -1,4 +1,4 @@
-This project is a Christmas present to my sister, an Automated Plant Monitor. 
+This project is a Christmas present to my sister, an Automated Plant Monitor. (WORK IN PROGRESS!!)
 It constantly monitors the soil humidity conditions of up to 8 plants at once and dispenses water from a reservoir as needed. 
 
 This repository only contains code I wrote, but if you are interested in recreating this project, contact me at jrog1000@outlook.com so I can delve further into the dependencies and hardware configurations/requirements. 
